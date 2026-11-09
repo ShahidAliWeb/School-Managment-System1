@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">GBPS School Village Kando Lund</title>
+  <desc id="desc">A school logo with an open book, rising sun, and the school name.</desc>
+  <rect width="1200" height="500" rx="36" fill="#fffdf7"/>
+  <g transform="translate(55 40)">
+    <circle cx="210" cy="210" r="190" fill="#0c3850"/>
+    <circle cx="210" cy="210" r="174" fill="none" stroke="#e5b84e" stroke-width="5"/>
+    <path d="M65 210a145 145 0 0 1 290 0" fill="none" stroke="#e5b84e" stroke-width="3" opacity=".8"/>
+    <text x="210" y="105" text-anchor="middle" fill="#fffdf7" font-family="Arial,sans-serif" font-size="37" font-weight="700" letter-spacing="7">GBPS</text>
+    <g fill="#e5b84e">
+      <circle cx="95" cy="148" r="5"/><circle cx="325" cy="148" r="5"/>
+    </g>
+    <!-- rising sun and rays -->
+    <path d="M153 208a57 57 0 0 1 114 0" fill="none" stroke="#e5b84e" stroke-width="11" stroke-linecap="round"/>
+    <path d="M210 135v-18M169 150l-12-14M251 150l12-14" stroke="#e5b84e" stroke-width="7" stroke-linecap="round"/>
+    <!-- open book -->
+    <path d="M91 218c39-17 79-14 119 9v73c-40-23-80-26-119-9z" fill="#fffdf7" stroke="#e5b84e" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M329 218c-39-17-79-14-119 9v73c40-23 80-26 119-9z" fill="#fffdf7" stroke="#e5b84e" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M210 227v73M111 238c25-8 50-7 75 3M111 258c25-8 50-7 75 3M309 238c-25-8-50-7-75 3M309 258c-25-8-50-7-75 3" fill="none" stroke="#0c6470" stroke-width="4" stroke-linecap="round"/>
+    <path d="M135 322h150" stroke="#e5b84e" stroke-width="5" stroke-linecap="round"/>
+    <text x="210" y="357" text-anchor="middle" fill="#fffdf7" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">LEARN • GROW • SHINE</text>
+  </g>
+  <g transform="translate(495 105)">
+    <text x="0" y="42" fill="#0c6470" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="6">GOVERNMENT BOYS PRIMARY SCHOOL</text>
+    <path d="M0 71h630" stroke="#e5b84e" stroke-width="4"/>
+    <text x="-3" y="180" fill="#0c3850" font-family="Georgia,serif" font-size="86" font-weight="700" letter-spacing="2">SCHOOL</text>
+    <text x="-3" y="270" fill="#0c3850" font-family="Georgia,serif" font-size="86" font-weight="700" letter-spacing="2">VILLAGE</text>
+    <text x="2" y="335" fill="#0c6470" font-family="Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="7">KANDO LUND</text>
+    <path d="M0 365h420" stroke="#e5b84e" stroke-width="4"/>
+    <text x="0" y="405" fill="#48616b" font-family="Arial,sans-serif" font-size="19" letter-spacing="3">KNOWLEDGE • CHARACTER • COMMUNITY</text>
+  </g>
+</svg>

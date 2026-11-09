@@ -1,0 +1,6 @@
+{
+  "name": "GBPS: Kando Lund — School Management System",
+  "description": "Comprehensive role-based School Management System for GBPS: Kando Lund covering admissions, attendance, academics, exams, fee vouchers, HR payroll, parent-student portals, and campus operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
